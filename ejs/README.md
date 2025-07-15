@@ -1,5 +1,7 @@
 # Resume Generator
 
+![Resume Generator Sample Output](https://github.com/Winnie0609/notes/blob/ddad71d1e5029766f3d8c8fcd794f336c4ab25dd/ejs/resources/sample.png)
+
 一個基於 EJS 模板引擎的履歷生成器，可以將 Markdown 格式的履歷內容轉換為專業的 HTML 和 PDF 格式。
 
 ## 檔案結構
